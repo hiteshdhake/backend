@@ -1,0 +1,30 @@
+{
+  "categories": [{
+    "name": "vegetables",
+    "id": 1
+  }, {
+    "name": "oil",
+    "id": 2
+  }, {
+    "name": "cold drinks",
+    "id": 1
+  }],
+  "products": [
+    {
+      "category": 1,
+      "name": "potato"
+    },
+    {
+      "category": 1,
+      "name" : "onion"
+    },
+    {
+      "category": 2,
+      "name": "sunflower"
+    },
+    {
+      "category": 3,
+      "name": "pepsi"
+    }
+  ]
+}
